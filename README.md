@@ -1,1 +1,1 @@
-# HTML Ödev 1 projesi
+# HTML Ödev 2 projesi
